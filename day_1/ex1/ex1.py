@@ -1,6 +1,6 @@
 #1st start exercise
 
-f = open("ex1text.txt", "r")
+f = open("input.txt", "r")
 digits = {'1', '2', '3', '4', '5', '6', '7', '8', '9', '0'}
 digit_arr = []
 content = f.readlines()

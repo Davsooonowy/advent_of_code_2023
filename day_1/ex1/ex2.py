@@ -1,6 +1,6 @@
     #2 exercise from 1.12
 
-f = open("ex1text.txt", "r")
+f = open("input.txt", "r")
 digits = {'1', '2', '3', '4', '5', '6', '7', '8', '9', '0'}
 text_to_number = {
         'one': '1',
