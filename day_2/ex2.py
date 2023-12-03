@@ -1,4 +1,4 @@
-from day_1.ex2.GameTransform import GameTransform
+from day_2.GameTransform import GameTransform
 
 
 def check_game(game_data):

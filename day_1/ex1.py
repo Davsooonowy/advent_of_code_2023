@@ -1,5 +1,3 @@
-#1st start exercise
-
 f = open("input.txt", "r")
 digits = {'1', '2', '3', '4', '5', '6', '7', '8', '9', '0'}
 digit_arr = []
@@ -15,4 +13,4 @@ for i in digit_arr:
         res += 10*j + j
     else:
         res += 10 * int(i[0]) + int(i[-1])
-print(res)
+
